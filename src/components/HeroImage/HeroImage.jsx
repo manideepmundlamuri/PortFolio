@@ -14,7 +14,7 @@ const HeroImage = () => {
                 <h1>React Developer.</h1>
                 <div>
                     <Link to='/project' className='btn'>PROJECTS</Link>
-                    <Link to='/project' className='btn btn-light'>CONTACT</Link>
+                    <Link to='/contact' className='btn btn-light'>CONTACT</Link>
                 </div>
             </div>
 
